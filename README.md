@@ -1,4 +1,4 @@
-## Hi there 👋
+## Joey Galligani 👋
 
 <!--
 **Joey-Galligani/Joey-Galligani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
