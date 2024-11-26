@@ -11,11 +11,11 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Joey-Galligani.Joey-Galligani&"  />
 </div>
 
-### <br>
+### 
 
 <h1 align="center">Joey Galligani 👋</h1>
 
-### <br>
+### 
 
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -23,7 +23,7 @@
 
 <p align="left">- 🔭 I study at Epitech Montpellier<br>- 📚 I'm currently learning Cybersecurity, Network and developement<br>- ⚡ In my free time I do challenge on Root-Me</p>
 
-### <br>
+### 
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -47,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
-### <br>
+### 
 
 <h3 align="left">🔥   My Stats :</h3>
 
