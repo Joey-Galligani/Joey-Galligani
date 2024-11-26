@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" href="https://www.linkedin.com/in/joey-galligani-3ba244226/" />
+  <a href="https://www.linkedin.com/in/joey-galligani-3ba244226/" ><img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" /></a>
 </div>
 
 ###
@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Joey Galligani 👋</h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Joey Galligani<br><br>- 🔭 I study at Epitech Montpellier<br>- 📚 I'm currently learning Cybersecurity, Network and developement<br>- ⚡ In my free time I do challenge on Root-Me</p>
+<p align="left">- 🔭 I study at Epitech Montpellier<br>- 📚 I'm currently learning Cybersecurity, Network and developement<br>- ⚡ In my free time I do challenge on Root-Me</p>
 
 ###
 
