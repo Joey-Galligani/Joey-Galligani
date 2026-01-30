@@ -1,1 +1,1 @@
-![Joey Galligani](./Joey.png)
+![Joey Galligani](./baniere.png)
